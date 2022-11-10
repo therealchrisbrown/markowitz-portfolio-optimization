@@ -10,7 +10,6 @@ from pandas_datareader.data import DataReader
 plt.style.use('fivethirtyeight')
 
 #Tickers & Stock symbols 
-#Zunächst Test für FAANG
 assets = ["SKB.DE","1810.HK","BABA","CRM","SNH.DE","MSFT","V","WM","AOS"]
 
 #Gewichtungen der Einzeltitel
